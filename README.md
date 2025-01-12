@@ -33,8 +33,6 @@ This project demonstrates the ability to classify communication site types and u
 ## How to Run the Project  
 1.Before running the notebook, ensure that the dataset file (Data ML2.csv) is accessible on your computer.
 Open the Jupyter Notebook file (project_notebook.ipynb) and locate the cell where the dataset is loaded, Replace 'C:\\Users\\EyalK\\Desktop\\ML2\\Data ML2.csv' with the actual path of the dataset on your computer .
-2. Clone the repository:
-git clone "https://github.com/Eyal-Kadosh/Radiation-Analysis-Project"
 
 
 Acknowledgments
